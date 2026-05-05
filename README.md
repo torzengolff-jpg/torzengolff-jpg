@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://my-portfolio-rose-gamma-56.vercel.app/">
-    <img src="https://raw.githubusercontent.com/torzengolff-jpg/torzengolff-jpg/main/banner.png.jpg" alt="Suraj Banner"/>
-  </a>
-</p>
-
 <br/>
 
 <h1 align="left">Hi 👋, I'm Suraj Chandravanshi</h1>
