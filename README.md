@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suraj Chandravanshi</h1>
+<h3 align="center">🚀 SEO Specialist | Web Developer | Digital Growth Engineer</h3>
 
-<!--
-**torzengolff-jpg/torzengolff-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I help businesses grow online using <b>SEO + Web Development + Marketing</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+
+* 📈 Generate leads through SEO
+* 🌐 Build responsive websites
+* ⚡ Optimize speed & performance
+
+---
+
+## 🛠️ Skills
+
+HTML | CSS | JavaScript | SEO | WordPress | Git
+
+---
+
+## 🚀 Live Project
+
+🌐 https://my-portfolio-rose-gamma-50.vercel.app/
+
+---
+
+## 📫 Contact
+
+📧 [jaykarsuraj699@gmail.com](mailto:jaykarsuraj699@gmail.com)
