@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suraj Chandravanshi</h1>
+<h1 align="left">Hi 👋, I'm Suraj Chandravanshi</h1>
 
-<h3 align="center">🚀 SEO Specialist | Web Developer | Digital Growth Engineer</h3>
+<h3 align="left">🚀 SEO Specialist | Web Developer | Digital Growth Engineer</h3>
 
-<p align="center">
+<p align="left">
 I help businesses grow online using <b>SEO + Web Development + Marketing</b>
 </p>
 
