@@ -3,14 +3,13 @@
 <h3 align="left">🚀 SEO Specialist | Web Developer | Digital Growth Engineer</h3>
 
 <p align="left">
-I help businesses grow online using <b>SEO + Web Development + Marketing</b>
-</p>
+I build high-converting websites and SEO systems that generate real business growth.</p>
 
 ## 🔥 What I Do
 
-* 📈 Generate leads through SEO
-* 🌐 Build responsive websites
-* ⚡ Optimize speed & performance
+- 📈 Generate leads and traffic through SEO  
+- 🌐 Build fast, responsive websites  
+- ⚡ Optimize performance for better conversions  
 
 ## 🛠️ Skills
 
@@ -20,6 +19,13 @@ HTML | CSS | JavaScript | SEO | WordPress | Git
 
 🌐 https://my-portfolio-rose-gamma-50.vercel.app/
 
+## 🎯 Current Focus
+
+- Improving development skills  
+- Building real-world projects  
+- Scaling digital marketing systems  
+
 ## 📫 Contact
 
-📧 [jaykarsuraj699@gmail.com](mailto:jaykarsuraj699@gmail.com)
+📧 [Email Me](mailto:jaykarsuraj699@gmail.com)  
+📞 +91 9971745398
